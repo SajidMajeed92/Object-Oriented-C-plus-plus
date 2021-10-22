@@ -2,7 +2,7 @@
 // Date : 29 September 2021
 // Course : Object Oriented Programming 
 
-#include <iostream> // Add Preprocesor Directives
+#include <iostream> // Add Preprocessor Directives
 using namespace std;
 
 	int main() {
